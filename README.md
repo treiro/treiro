@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @treiro
-- 👀 I’m interested in Deep-learning
+- 👀 I’m interested in Computer Vision and Deep-learning
 - 🌱 I’m currently learning by myself
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
